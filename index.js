@@ -2,8 +2,8 @@
 // Write your code here
 let num1 = 31
 let num2 = 2
-let num3 = 6
-let num4 = 10
+let num3 = 10
+let num4 = 6
 let random = 4
 
 let multiply = num1 * num2;
